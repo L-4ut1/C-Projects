@@ -169,7 +169,7 @@ void OPCION3 (void)
 }
 void OPCION4 (void)
 {
-
+	printf("puto");
     return;
 }
 
